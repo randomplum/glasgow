@@ -142,7 +142,7 @@ $EndComp
 Wire Wire Line
 	1300 2850 1300 2800
 $Comp
-L FPGA_Lattice:ICE40HX8K-BG121 U?
+L glasgow-rescue:ICE40HX8K-BG121-FPGA_Lattice U?
 U 2 1 5C9E33E2
 P 4750 4450
 AR Path="/5C9E33E2" Ref="U?"  Part="2" 
@@ -158,7 +158,7 @@ F 6 "Lattice Semiconductor Corporation" H 4750 4450 50  0001 C CNN "Mfg"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L FPGA_Lattice:ICE40HX8K-BG121 U?
+L glasgow-rescue:ICE40HX8K-BG121-FPGA_Lattice U?
 U 4 1 5C9E33E9
 P 8250 4200
 AR Path="/5C9E33E9" Ref="U?"  Part="4" 
@@ -1421,7 +1421,7 @@ F 6 "res-0402-1k" H 1950 2750 50  0001 C CNN "1b2-bom-key"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L FPGA_Lattice:ICE40HX8K-BG121 U?
+L glasgow-rescue:ICE40HX8K-BG121-FPGA_Lattice U?
 U 1 1 5C9E33DB
 P 1300 4250
 AR Path="/5C9E33DB" Ref="U?"  Part="1" 
