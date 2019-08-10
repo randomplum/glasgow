@@ -1,4 +1,4 @@
-update=2019-05-02T18:14:29 JST
+update=10/08/2019 19:43:19
 version=1
 last_client=kicad
 [general]
@@ -89,7 +89,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=revC1/
+PlotDirectoryName=revUSB-C1/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
